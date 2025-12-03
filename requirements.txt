@@ -1,0 +1,10 @@
+streamlit
+pandas
+geopy
+folium
+streamlit-folium
+plotly
+matplotlib
+--extra-index-url https://pypi.nvidia.com
+cuopt-server-cu13
+cuopt-sh-client
